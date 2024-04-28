@@ -1,0 +1,250 @@
+S_No,Content,Type,Source
+0,def factorial(n):,Code,Bard
+1,def reverse_string(string):,Code,Bard
+2,def calculate_area_of_circle(radius):,Code,Bard
+3,"def find_maximum(number1, number2):",Code,Bard
+4,def is_even(number):,Code,Bard
+5,def sum_of_digits(number):,Code,Bard
+6,def find_length_of_list(list_of_numbers):,Code,Bard
+7,"def concatenate_lists(list1, list2):",Code,Bard
+8,def remove_duplicates(list_of_numbers):,Code,Bard
+9,def is_sorted(list_of_numbers):,Code,Bard
+10,def square_root(number):,Code,Bard
+11,"def gcd(a, b):",Code,Bard
+12,def celsius_to_fahrenheit(celsius):,Code,Bard
+13,def find_largest_element(array):,Code,Bard
+14,def count_vowels(string):,Code,Bard
+15,def is_perfect_square(number):,Code,Bard
+16,def find_smallest_element(array):,Code,Bard
+17,"def calculate_area_of_rectangle(width, height):",Code,Bard
+18,def is_palindrome(number):,Code,Bard
+19,"def find_common_elements(array1, array2):",Code,Bard
+20,"def power(base, exponent):",Code,Bard
+21,"def swap_numbers(number1, number2):",Code,Bard
+22,def reverse_list(list_to_reverse):,Code,Bard
+23,def find_prime_factors(number):,Code,Bard
+24,def sum_of_even_numbers(list_of_numbers):,Code,Bard
+25,def sum_of_odd_numbers(list_of_numbers):,Code,Bard
+26,,Code,Bard
+27,def is_armstrong_number(number):,Code,Bard
+28,"def lcm(x, y):",Code,Bard
+29,"def area_of_triangle(base, height):",Code,Bard
+30,def is_list_empty(list_to_check):,Code,Bard
+31,def sort_numbers(numbers):,Code,Bard
+32,def sort_strings(list_of_strings):,Code,Bard
+33,def find_middle_element(numbers):,Code,Bard
+34,def average(numbers):,Code,Bard
+35,def is_perfect_number(number):,Code,Bard
+36,def ascii_value(character):,Code,Bard
+37,def remove_whitespace(string):,Code,Bard
+38,def is_leap_year(year):,Code,Bard
+39,def count_words(string):,Code,Bard
+40,def is_prime(number):,Code,Bard
+41,def calculate_circumference(radius):,Code,Bard
+42,"def find_index(list, element):",Code,Bard
+43,def calculate_area_of_square(side_length):,Code,Bard
+44,def reverse_words(string):,Code,Bard
+45,def volume_of_sphere(radius):,Code,Bard
+46,def volume_of_sphere(radius):,Code,Bard
+47,def check_number(number):,Code,Bard
+48,"def difference_between_dates(date1, date2):",Code,Bard
+49,def first_non_repeated_character(string):,Code,Bard
+50,"def generate_random_number(min_value, max_value):",Code,Bard
+51,"def is_anagram(string1, string2):",Code,Bard
+52,def mode(list_of_numbers):,Code,Bard
+53,def reverse_array(array):,Code,Bard
+54,def is_palindrome(string):,Code,Bard
+55,def sum_of_primes(limit):,Code,Bard
+56,def find_second_largest_element(array):,Code,Bard
+57,def is_perfect_square(number):,Code,Bard
+58,def is_fibonacci(number):,Code,Bard
+59,def max_product_of_two_numbers(array):,Code,Bard
+60,def max_product_of_two_numbers(array):,Code,Bard
+61,def count_words_starting_with_vowel(string):,Code,Bard
+62,"def difference_of_sets(set1, set2):",Code,Bard
+63,"def common_elements(set1, set2):",Code,Bard
+64,"def calculate_area_of_trapezoid(base1, base2, height):",Code,Bard
+65,def sum_of_digits(number):,Code,Bard
+66,"def count_occurrences(string, character):",Code,Bard
+67,def is_perfect_number(number):,Code,Bard
+68,def sum_digits(n):,Code,Bard
+69,def count_letters(string):,Code,Bard
+70,def is_palindrome(string):,Code,Bard
+71,def area_of_pentagon(s):,Code,Bard
+72,"def lcs(x, y):",Code,Bard
+73,def is_strong_number(number):,Code,Bard
+74,def ascii_value(string):,Code,Bard
+75,def is_harshad(number):,Code,Bard
+76,"def union(set1, set2):",Code,Bard
+77,"def area_of_parallelogram(base, height):",Code,Bard
+78,def find_largest_prime_factor(number):,Code,Bard
+79,def is_abundant(number):,Code,Bard
+80,def area_of_cube(side):,Code,Bard
+81,def is_palindrome(string):,Code,Bard
+82,def count_vowels_and_consonants(string):,Code,Bard
+83,def is_narcissistic(number):,Code,Bard
+84,"def area_of_rhombus(d1, d2):",Code,Bard
+85,"def longest_common_prefix(string1, string2):",Code,Bard
+86,def is_smith_number(number):,Code,Bard
+87,def area_of_hexagon(side_length):,Code,Bard
+88,def trailing_zeros(n):,Code,Bard
+89,def is_pangram(string):,Code,Bard
+90,def sum_of_divisors(number):,Code,Bard
+91,def is_perfect_power(number):,Code,Bard
+92,def area_of_octagon(side):,Code,Bard
+93,"def longest_common_suffix(string1, string2):",Code,Bard
+94,def is_palindrome(string):,Code,Bard
+95,"def count_word_occurrences(text, word):",Code,Bard
+96,def factorial(n):,Code,Bard
+97,"def find_roots(a, b, c):",Code,Bard
+98,def is_sorted(list_to_check):,Code,Bard
+99,def find_shortest_path_length(matrix):,Code,Bard
+100,def max_adjacent_sum(array):,Code,Bard
+101,def is_binary_palindrome(number):,Code,Bard
+102,def first_non_repeated_character(string):,Code,Bard
+103,def is_prime(number):,Code,Bard
+104,def find_area_of_circle(radius):,Code,Bard
+105,def is_symmetric(matrix):,Code,Bard
+106,"def gcd(a, b):",Code,Bard
+107,def is_armstrong(number):,Code,Bard
+108,def find_smallest_positive_missing_number(array):,Code,Bard
+109,def is_valid_email(email_address):,Code,Bard
+110,def sum_of_digits(number):,Code,Bard
+111,def median(numbers):,Code,Bard
+112,def is_diagonal(matrix):,Code,Bard
+113,"def lcm(num1, num2):",Code,Bard
+114,def is_valid_url(url):,Code,Bard
+115,def prime_factors(number):,Code,Bard
+116,def is_magic_square(matrix):,Code,Bard
+117,def climb_stairs(n):,Code,Bard
+118,def is_palindrome_permutation(string):,Code,Bard
+119,def max_subarray_sum(array):,Code,Bard
+120,def is_sparse(matrix):,Code,Bard
+121,"def heron_formula(a, b, c):",Code,Bard
+122,def is_narcissistic_prime(number):,Code,Bard
+123,"def kth_smallest_element(array, k):",Code,Bard
+124,def is_palindrome_anagram(string):,Code,Bard
+125,def number_of_digits(number):,Code,Bard
+126,def is_diagonal_matrix(matrix):,Code,Bard
+127,def longest_palindrome_substring(string):,Code,Bard
+128,def is_square_free(number):,Code,Bard
+129,"def volume_of_cylinder(radius, height):",Code,Bard
+130,def is_pangrammatic_palindrome(string):,Code,Bard
+131,"def sum_of_primes(start, end):",Code,Bard
+132,def is_scalar_matrix(matrix):,Code,Bard
+133,"def count_word_occurrences(word, sentences):",Code,Bard
+134,def is_fermat_prime(number):,Code,Bard
+135,def volume_of_sphere(radius):,Code,Bard
+136,def is_valid_palindrome_permutation(string):,Code,Bard
+137,def sum_of_odd_numbers(array):,Code,Bard
+138,"def __init__(self, data):",Code,Bard
+139,"def lcs(x, y):",Code,Bard
+140,def bubble_sort(list_to_sort):,Code,Bard
+141,"def __init__(self, name, weight):",Code,Bard
+142,"def __init__(self, value):",Code,Bard
+143,"def __init__(self, capacity):",Code,Bard
+144,"def find_kth_largest(array, k):",Code,Bard
+145,def __init__(self):,Code,Bard
+146,"def max_sum_subarray_with_given_sum(array, sum):",Code,Bard
+147,"def find_common_elements(array1, array2):",Code,Bard
+148,def longest_increasing_subarray(array):,Code,Bard
+149,"def binary_search(array, target):",Code,Bard
+150,def find_islands(grid):,Code,Bard
+151,def longest_palindrome(string):,Code,Bard
+152,"def __init__(self, key, value):",Code,Bard
+153,"def __init__(self, value):",Code,Bard
+154,def __init__(self):,Code,Bard
+155,def max_sum_non_adjacent(array):,Code,Bard
+156,def find_connected_components(graph):,Code,Bard
+157,def __init__(self):,Code,Bard
+158,"def bfs(graph, start, end):",Code,Bard
+159,def longest_common_prefix(strings):,Code,Bard
+160,"def __init__(self, data):",Code,Bard
+161,"def longest_common_substring(str1, str2):",Code,Bard
+162,"def __init__(self, data):",Code,Bard
+163,"def __init__(self, u, v, w):",Code,Bard
+164,def max_circular_sum(array):,Code,Bard
+165,"def __init__(self, data):",Code,Bard
+166,defaultdict,Code,Bard
+167,"def radix_sort(array, max_digit):",Code,Bard
+168,def longest_palindrome_subsequence(string):,Code,Bard
+169,,Code,Bard
+170,def longest_increasing_subsequence(array):,Code,Bard
+171,defaultdict,Code,Bard
+172,def max_product_subarray(array):,Code,Bard
+173,"def __init__(self, n):",Code,Bard
+174,"def longest_common_subarray(arr1, arr2):",Code,Bard
+175,def floyd_warshall(graph):,Code,Bard
+176,"def __init__(self, val):",Code,Bard
+177,"def bfs(graph, start):",Code,Bard
+178,"def __init__(self, capacity):",Code,Bard
+179,def largest_rectangle(histogram):,Code,Bard
+180,def create_graph(n):,Code,Bard
+181,def first_non_repeated_character(string):,Code,Bard
+182,"def __init__(self, capacity):",Code,Bard
+183,"def scs(x, y):",Code,Bard
+184,"def __init__(self, root):",Code,Bard
+185,def longest_palindrome(string):,Code,Bard
+186,def topological_sort(graph):,Code,Bard
+187,"def lcs(x, y, z):",Code,Bard
+188,"def heapify(heap, n, i):",Code,Bard
+189,def find_smallest_missing_positive(array):,Code,Bard
+190,"def __init__(self, n):",Code,Bard
+191,"def count_ways(n, step_sizes):",Code,Bard
+192,"def sliding_window_maximum(array, window_size):",Code,Bard
+193,def min_steps(array):,Code,Bard
+194,"def counting_sort(array, max_value):",Code,Bard
+195,"def longest_common_subarray_with_k_differences(arr1, arr2, k):",Code,Bard
+196,def max_area_of_rectangle_in_binary_matrix(matrix):,Code,Bard
+197,"def __init__(self, n):",Code,Bard
+198,def first_missing_positive(nums):,Code,Bard
+199,def topological_sort(graph):,Code,Bard
+200,"def lcs(x, y):",Code,Bard
+201,"def quick_sort(array, low, high):",Code,Bard
+202,"def longest_increasing_subarray(array, target):",Code,Bard
+203,"def dfs(tree, node):",Code,Bard
+204,"def dijkstra(graph, source, destination):",Code,Bard
+205,def __init__(self):,Code,Bard
+206,def longest_common_prefix(strings):,Code,Bard
+207,"def merge_sort(array, low, high):",Code,Bard
+208,"def max_sum_subarray_k(array, k):",Code,Bard
+209,"def __init__(self, value, priority):",Code,Bard
+210,def largest_sum_subarray_with_equal_zeros_and_ones(arr):,Code,Bard
+211,def bubble_sort_optimized(array):,Code,Bard
+212,def longest_common_subarray_with_equal_zeros_and_ones(array):,Code,Bard
+213,"def __init__(self, value):",Code,Bard
+214,def max_product_of_two_elements(arr):,Code,Bard
+215,"def __init__(self, data):",Code,Bard
+216,"def longest_common_subarray_with_sum_divisible_by_k(arr, n, k):",Code,Bard
+217,def optimized_selection_sort(array):,Code,Bard
+218,def find_smallest_missing_positive_integer(array):,Code,Bard
+219,def shell_sort(arr):,Code,Bard
+220,"def longest_common_subarray_with_sum_equal_to_k(arr, n, k):",Code,Bard
+221,def max_sum_subarray_no_adjacent(array):,Code,Bard
+222,def __init__(self):,Code,Bard
+223,"def longest_common_subarray_with_sum_less_than_or_equal_to_target(arr, n, target):",Code,Bard
+224,"def radix_sort(array, max_digit):",Code,Bard
+225,"def largest_sum_subarray_with_k_elements(array, k):",Code,Bard
+226,def bucket_sort(array):,Code,Bard
+227,def longest_common_subarray(array):,Code,Bard
+228,"def __init__(self, size):",Code,Bard
+229,def max_sum_subarray_with_at_least_one_element(array):,Code,Bard
+230,"def __init__(self, val):",Code,Bard
+231,"def longest_common_subarray(array, k):",Code,Bard
+232,def __init__(self):,Code,Bard
+233,"def max_sum_subarray_with_target(array, target):",Code,Bard
+234,def __init__(self):,Code,Bard
+235,"def longest_common_subarray(array, k):",Code,Bard
+236,def __init__(self):,Code,Bard
+237,"def largest_sum_subarray_less_than_or_equal_to_k(array, k):",Code,Bard
+238,"def __init__(self, value):",Code,Bard
+239,"def longest_common_subarray_with_sum_equal_to_k(array, k):",Code,Bard
+240,"def __init__(self, size):",Code,Bard
+241,"def max_sum_subarray_greater_than_or_equal_to_k(array, k):",Code,Bard
+242,"def __init__(self, data):",Code,Bard
+243,"def longest_common_subarray_with_at_most_k_differences(array1, array2, k):",Code,Bard
+244,def __init__(self):,Code,Bard
+245,"def max_sum_subarray_with_sum_divisible_by_k(array, k):",Code,Bard
+246,def merge_sort(array):,Code,Bard
+247,def largest_product_subarray(array):,Code,Bard
+248,def largest_sum_subarray(array):,Code,Bard
